@@ -1,7 +1,7 @@
 [project]
 name = "codextest"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple camera streaming demo using OpenCV"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = ["opencv-python"]
